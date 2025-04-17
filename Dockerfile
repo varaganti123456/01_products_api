@@ -1,5 +1,7 @@
 FROM openjdk:17
 
+MAINTAINER <Ashok>
+
 COPY target/products_api.jar  /usr/app/
 
 WORKDIR /usr/app/
