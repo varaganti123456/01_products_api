@@ -13,6 +13,8 @@ public class EcommerceBackendApplication {
 		int j = 20;
 
 		String name = "ashokit";
+		
+		int k = 30;
 	}
 
 }
