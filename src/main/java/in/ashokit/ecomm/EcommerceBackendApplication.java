@@ -15,6 +15,8 @@ public class EcommerceBackendApplication {
 		String name = "ashokit";
 		
 		int k = 30;
+
+		boolean status = false;
 	}
 
 }
