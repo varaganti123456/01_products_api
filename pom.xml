@@ -28,8 +28,8 @@
 	</scm>
 	<properties>
 		<java.version>17</java.version>
-		<sonar.login>admin</sonar.login>
-		<sonar.password>sqa_ae95877407c19c7b633dd5c66a579efc3fe2c943</sonar.password>
+		<sonar.login>sqa_ae95877407c19c7b633dd5c66a579efc3fe2c943</sonar.login>
+		
 	</properties>
 	<dependencies>
 		<dependency>
